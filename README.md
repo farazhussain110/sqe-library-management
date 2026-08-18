@@ -1,1 +1,1 @@
-# sqe-library-management
+add method ,add validation, add docstring 
